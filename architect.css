@@ -102,6 +102,40 @@ main{
     font-size: 16px;
     font-weight: 400;
 }
+/* features */
+.features{
+    margin-top: 130px;
+    display: flex;
+    gap: 100px;
+}
+.feature-content .card{
+    padding: 30px;
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 4px 30px 0px rgba(0, 0, 0, 0.06);
+}
+.feature-content .titles{
+    border-left: 10px solid #FF900E;
+    padding-left: 20px;
+}
+.ten-yr{
+    border-radius: 8px;
+    background: #FF900E;
+    padding: 40px;
+    width: 342px;
+    height: 200px;
+    text-align: center;
+}
+.ten-yr h2{
+    color: #FFF;
+    font-size: 3.5rem;
+    font-weight: 700;
+}
+.ten-yr p{
+
+}
+
+
 
 /* fact-section */
 .fact{
